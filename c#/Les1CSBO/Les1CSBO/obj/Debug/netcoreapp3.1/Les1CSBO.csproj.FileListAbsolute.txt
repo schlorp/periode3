@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.exe
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.deps.json
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.dll
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.pdb
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.dll
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.pdb
+C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.genruntimeconfig.cache
