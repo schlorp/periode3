@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\Les1CSBO\\Les1CSBO\\Les1CSBO.csproj",
+      "projectUniqueName": "D:\\school\\periode3\\c#\\Les1CSBO\\Les1CSBO\\Les1CSBO.csproj",
       "projectName": "Les1CSBO",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\Les1CSBO\\Les1CSBO\\Les1CSBO.csproj",
+      "projectPath": "D:\\school\\periode3\\c#\\Les1CSBO\\Les1CSBO\\Les1CSBO.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\Les1CSBO\\Les1CSBO\\obj\\",
+      "outputPath": "D:\\school\\periode3\\c#\\Les1CSBO\\Les1CSBO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

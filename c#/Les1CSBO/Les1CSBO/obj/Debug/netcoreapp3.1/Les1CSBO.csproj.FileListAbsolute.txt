@@ -11,3 +11,16 @@ C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CS
 C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.dll
 C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.pdb
 C:\Users\Gebruiker\source\repos\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.genruntimeconfig.cache
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.exe
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.deps.json
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.runtimeconfig.json
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.runtimeconfig.dev.json
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.dll
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\bin\Debug\netcoreapp3.1\Les1CSBO.pdb
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.csprojAssemblyReference.cache
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.AssemblyInfoInputs.cache
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.AssemblyInfo.cs
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.csproj.CoreCompileInputs.cache
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.dll
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.pdb
+D:\school\periode3\c#\Les1CSBO\Les1CSBO\obj\Debug\netcoreapp3.1\Les1CSBO.genruntimeconfig.cache
