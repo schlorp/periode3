@@ -8,7 +8,10 @@ public class wapon : MonoBehaviour
     private AudioSource shot;
     public ParticleSystem smoke;
     Animator anim;
-    public int damage = 50;
+    //als damage niet meer werkt maak dit public
+    private int damage = 0;
+    public int mindamage = 10;
+    public int maxdamage = 15;
 
     private void Start()
     {
@@ -38,7 +41,9 @@ public class wapon : MonoBehaviour
             enemy enemy = hitinfo.transform.GetComponent<enemy>();
             if(enemy != null)
             {
+                damage = Random.Range(mindamage, maxdamage);
                 enemy.Takedamage(damage);
+                Debug.Log(damage);
             }
         }
     }
