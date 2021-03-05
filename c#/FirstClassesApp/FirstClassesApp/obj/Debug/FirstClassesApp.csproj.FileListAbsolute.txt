@@ -1,0 +1,7 @@
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\bin\Debug\FirstClassesApp.exe.config
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\bin\Debug\FirstClassesApp.exe
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\bin\Debug\FirstClassesApp.pdb
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\obj\Debug\FirstClassesApp.csprojAssemblyReference.cache
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\obj\Debug\FirstClassesApp.csproj.CoreCompileInputs.cache
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\obj\Debug\FirstClassesApp.exe
+D:\school\periode3\c#\FirstClassesApp\FirstClassesApp\obj\Debug\FirstClassesApp.pdb

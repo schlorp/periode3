@@ -8,11 +8,15 @@ public class wapon : MonoBehaviour
     private AudioSource shot;
     public ParticleSystem smoke;
     Animator anim;
-    //als damage niet meer werkt maak dit public
+
     private int damage = 0;
     public int mindamage = 10;
     public int maxdamage = 15;
+
     public int Ammo = 5;
+
+    public float firecap = 1;
+    bool AllowFire = true;
 
     private void Start()
     {
@@ -21,7 +25,7 @@ public class wapon : MonoBehaviour
 
     }
     void Update() {
-        if (Input.GetButtonDown("Fire1") && (Ammo >= 1))
+        if (Input.GetButtonDown("Fire1") && (Ammo >= 1) && (AllowFire == true))
         {
             shoot();
             shot.Play();
@@ -37,6 +41,8 @@ public class wapon : MonoBehaviour
 
     void shoot ()
     {
+        StartCoroutine(waitforsec());
+
         RaycastHit2D hitinfo = Physics2D.Raycast(firepoint.position, firepoint.right);
 
         //haalt 1 ammo weg als je schiet
@@ -58,5 +64,11 @@ public class wapon : MonoBehaviour
                 Debug.Log(damage);
             }
         }
+    }
+    private IEnumerator waitforsec()
+    {
+        AllowFire = false;
+        yield return new WaitForSeconds(firecap);
+        AllowFire = true;
     }
 }
