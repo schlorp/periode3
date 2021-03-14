@@ -20,23 +20,17 @@ namespace Quest_factory
     {
         public static Quest CreateQuest(QuestType questType)
         {
-            // -- Here are the if statements to replace with a switch statement --
-            if (questType == QuestType.GoblinDungeon)
+            switch(questType)
             {
-                return new Quest("Goblin Dungeon", "A dungeon full of goblins.. Please help us traveler!");
-            }
-            else if (questType == QuestType.Garden)
-            {
-                return new Quest("Rose Garden", "The roses are wonderful.. but smelling them will change your fate..");
-            }
-            else if (questType == QuestType.WarriorTavern)
-            {
-                return new Quest("Warrior's Tarvern", "A warrior who owns a tarvern has reached out to you. Visit him.");
-            }
-            else
-            {
-                Console.WriteLine("No Quest found for type " + questType);
-                return null;
+                case QuestType.GoblinDungeon:
+                    return new Quest("Goblin Dungeon", "A dungeon full of goblins.. Please help us traveler!");
+                case QuestType.Garden:
+                    return new Quest("Rose Garden", "The roses are wonderful.. but smelling them will change your fate..");
+                case QuestType.WarriorTavern:
+                    return new Quest("Warrior's Tarvern", "A warrior who owns a tarvern has reached out to you. Visit him.");
+                default:
+                    Console.WriteLine("No Quest found for type " + questType);
+                    return null;
             }
         }
     }
