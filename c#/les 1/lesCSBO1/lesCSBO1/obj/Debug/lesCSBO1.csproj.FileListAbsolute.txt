@@ -1,0 +1,7 @@
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\bin\Debug\lesCSBO1.exe.config
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\bin\Debug\lesCSBO1.exe
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\bin\Debug\lesCSBO1.pdb
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\obj\Debug\lesCSBO1.csprojAssemblyReference.cache
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\obj\Debug\lesCSBO1.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\obj\Debug\lesCSBO1.exe
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 1.3\c#\les 1\lesCSBO1\lesCSBO1\obj\Debug\lesCSBO1.pdb
