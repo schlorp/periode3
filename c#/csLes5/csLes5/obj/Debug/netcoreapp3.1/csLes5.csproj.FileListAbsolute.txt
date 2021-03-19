@@ -1,0 +1,13 @@
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.exe
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.deps.json
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.runtimeconfig.json
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.runtimeconfig.dev.json
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.dll
+D:\school\periode3\c#\csLes5\csLes5\bin\Debug\netcoreapp3.1\csLes5.pdb
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.csprojAssemblyReference.cache
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.AssemblyInfoInputs.cache
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.AssemblyInfo.cs
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.csproj.CoreCompileInputs.cache
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.dll
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.pdb
+D:\school\periode3\c#\csLes5\csLes5\obj\Debug\netcoreapp3.1\csLes5.genruntimeconfig.cache
